@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'package:intrapair_mobile_apt_test/screens/select_country_page.dart';
 
+// ignore: must_be_immutable
 class ChooseLocationPage extends StatefulWidget {
   String initialCountry;
   String initialFlag;
